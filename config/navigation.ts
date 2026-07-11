@@ -2,10 +2,6 @@
 
 export const navigation = [
   {
-    title: "Home",
-    href: "/",
-  },
-  {
     title: "Products",
     href: "/products",
   },
@@ -16,20 +12,5 @@ export const navigation = [
   {
     title: "About",
     href: "/about",
-  },
-];
-
-export const footerNavigation = [
-  {
-    title: "Privacy",
-    href: "/privacy",
-  },
-  {
-    title: "Terms",
-    href: "/terms",
-  },
-  {
-    title: "Contact",
-    href: "/contact",
   },
 ];
